@@ -104,7 +104,7 @@ PRs welcome! For feature requests or feedback, please open an issue.
 
 ### 🧑‍🔬 Author
 
-Built with ❤️ for M.Tech Applied Scientist roles by Kheer Sagar Patel  
+Built with ❤️ for M.Tech Applied Scientist and Machine Learning roles by Kheer Sagar Patel  
 M.Tech in AI & ML @ IIITDM Jabalpur
 
 ---
